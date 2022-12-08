@@ -4,7 +4,7 @@
 Oleksandr Rublia
 ## contacts
 **tel** *+380934013810* 
-** e-mail *as.rublya@gmail.com* **
+**e-mail** *as.rublya@gmail.com*
 
 ## education
 **National Law Academy of Ukraine**
