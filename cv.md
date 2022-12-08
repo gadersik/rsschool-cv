@@ -3,7 +3,7 @@
 ## name
 Oleksandr Rublia
 ## contacts
-**tel *+380934013810* **
+**tel** *+380934013810* 
 ** e-mail *as.rublya@gmail.com* **
 
 ## education
