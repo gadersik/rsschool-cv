@@ -23,3 +23,20 @@
       .header, .main, .footer {
         border: 1px solid red;
       }
+      .nav-list {
+        display: flex;
+        align-items: center;
+        list-style: none;
+        padding: 0 20px;
+        line-height: 50px;
+      }
+      html {
+        scroll-behavior: smooth; 
+      }
+      .nav-link {
+        padding: 0 10px;
+        line-height: 50px;
+        text-decoration: none;
+        color: #9400d3;
+        font-weight: 700;
+      }
