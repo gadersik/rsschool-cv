@@ -8,3 +8,6 @@
     src: url("assets/fonts/Assistant-Bold.ttf");
     font-weight: 700;
   }
+  body {
+    font-family: 'Assistant';
+    }
