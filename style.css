@@ -11,3 +11,6 @@
   body {
     font-family: 'Assistant';
     }
+    * {
+        box-sizing: border-box;
+      }
