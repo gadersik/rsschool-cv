@@ -43,7 +43,11 @@
         color: #9400d3;
         font-weight: 700;
       }
-      
+      .section-title, th {
+        background-color: #ccccff;
+        padding: 0;
+        
+      }
       @media (max-width: 768px) {
         .section {
           width: 100%;
